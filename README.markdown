@@ -1,5 +1,6 @@
 While reading [Harry Potter and the Methods of Rationality](http://hpmor.com/) on [chapter 23](http://hpmor.com/chapter/23).
-The idea is magic is a 1 or more gene in your dna, and that affects how it could be passed down to your children, and how magically inclined they could possible be.
+
+The idea is magic is 1 or more genes in your dna, and that affects how it could be passed down to your children, and how magically inclined they could possible be.
 So I went ahead and implemented a simple python version of it, when the dna length is >1 it's how Draco thinks of it, and when it's = 1, it's how Harry thinks of it.
 
 Hooked up a little name generator to it, and an ancestry function to see a bit of your parent tree.
